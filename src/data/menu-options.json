@@ -1,6 +1,6 @@
 [
   {
-    "label": "HOME",
+    "label": "ABOUT",
     "url": "/"
   },
   {
@@ -14,9 +14,5 @@
   {
     "label": "PROJECTS",
     "url": "/projects"
-  },
-  {
-    "label": "LINKEDIN POST",
-    "url": "/linkedin"
   }
 ]
